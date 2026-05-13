@@ -1,4 +1,4 @@
-# B&J Biscuit Business Analysis Dashboard
+# B&J Biscuit Data Analysis Dashboard
 
 ![B&J Biscuit Dashboard Preview](Sales Dashboard.png)
 
